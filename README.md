@@ -8,6 +8,6 @@ I did most of these projects for learning and fun. I have learned a lot in compu
 
 ## How to run
 - P5 JS projects: projects developed using P5JS framework
-  - run the Server.bat file **OR** start a local server in the directory containing index.html 
+  - run the Server.bat file [require npm and browser-sync] **OR** start a local server in the directory containing index.html 
 - Other projects 
   - run with according executable or IDE
