@@ -1,0 +1,18 @@
+#displayLeft {
+  margin-left: 10%;
+  float : left;
+}
+
+#displayRight {
+  position: absolute;
+  margin-left: 50%;
+  float: left;
+}
+
+.bestPhrase {
+  display: block;
+  height: 30%;
+  position: relative;
+  margin-right: 50%;
+  font-size: 300%;
+}
